@@ -1,2 +1,2 @@
-# Felicity-Li.github.io
+# felicity-li.github.io
 Let's have some fun.
